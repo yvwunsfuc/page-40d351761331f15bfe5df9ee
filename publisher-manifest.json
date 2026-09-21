@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "53dd46a9966d4ce62a7cf5c4",
+  "owner": "yvwunsfuc",
+  "repo": "page-40d351761331f15bfe5df9ee",
+  "title": "灵魂云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "40d351761331f15bfe5df9ee",
+      "a": "灵魂云",
+      "b": "2027官方最新地址导航",
+      "entity": "灵魂云",
+      "brand": "灵魂云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b44155f3b7fe5abf884fcc58b261613539d868fc43279c6815810cf3746c905b",
+      "content": {
+        "primary_entity": "灵魂云",
+        "keyword1": "灵魂云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，建议先确认系统版本再导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按设备文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐开始连接",
+          "AI_DESCRIPTION": "，面向有跨境访问与游戏加速需求的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，配备 IPLC 专线；团队版每月 1000GB 流量，支持 20 台设备。按年付可节省费用，适合长期使用。",
+          "AI_FEATURES_INTRO": "围绕套餐用量、设备数量与订阅周期，快速找到适合自己的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览与日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，IPLC 专线适合游戏与高清流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，适合小团队多终端协作。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "从确认需求到配置订阅，按三步完成。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "灵魂云提供多档海外加速套餐，覆盖轻度浏览、流媒体与游戏加速场景。基础版、旗舰版与团队版在流量、设备数与线路类型上有区分，可按使用规模选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量需求与常用设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境，查看对应客户端支持的适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "灵魂云套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度浏览与基础流媒体，每月 100GB；旗舰版流量 300GB 并含 IPLC 专线，适合游戏与高清视频；团队版 1000GB，适合多设备或小团队。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。若设备多，建议直接选团队版，避免频繁切换。",
+          "AI_FAQ_ANSWER_3": "可以。年付方案按年付仅需 ¥150/年、¥350/年、¥850/年，比月付更省，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "在客户端内新建订阅并粘贴服务方提供的订阅链接，保存后更新节点即可。若客户端支持扫码导入，也可以用二维码添加订阅。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版有 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有哪些进阶权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qmzkl.cn",
+    "host": "qmzkl.cn"
+  },
+  "file_hashes": {
+    "index.html": "35064eac4888e4d12327f50465574f703f9522a5ddfbc6bc43b9f9694e6a69dd",
+    "sitemap.xml": "021efa23cfd4cdf6f9540dabfd35175e6906e6034eb5b1fd5fa334d62cb0718c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9714628eb30438ae6bc6d9fb0e2c5e7b9c8d1ec9f561a02bb6cfba361b63e44e",
+    "robots.txt": "df29a7af4f372d54a12602e7b67e6f384d06b89f9ecde293f03e02b00dc20f78",
+    "ceb531557578ead58988e6c1a109288a.txt": "f09743efe5c59bfec76bffc1e353430e704bd3a91ee551688fd572a1def214c9"
+  },
+  "revision": "306a3c198ac348d458ee524fdd2a48b21195b596e500fb3dddede7366413fbb0"
+}
